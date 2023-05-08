@@ -21,7 +21,8 @@
 ### Preview
 ***
 - Optimized Routing Plan for Top 150 Canadian Cities<br>
-![CA Tour](https://user-images.githubusercontent.com/111717563/236934561-eabe98fe-eaa1-42f6-a1c8-95fbe7d56bb9.png)
+![CA Tour](https://user-images.githubusercontent.com/111717563/236935438-2cf607ea-9216-4e79-8720-979f233332cb.png)
+
 
 
 - Optimized Routing Plan for Synthetic Data<br>
